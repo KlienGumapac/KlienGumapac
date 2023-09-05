@@ -1,3 +1,4 @@
+![MasterHead](https://github.com/KlienGumapac/KlienGumapac/blob/main/banner.gif)
 <h1 align="center">Hello, I'm Klien</h1>
 <h3 align="center">New to Web-development!</h3>
 <p align="center">
