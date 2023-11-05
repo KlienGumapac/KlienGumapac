@@ -1,6 +1,7 @@
 ![MasterHead](https://github.com/KlienGumapac/KlienGumapac/blob/main/banner.gif)
 <h1 align="center">Hello, I'm Klien</h1>
 <h3 align="center">New to Web-development! :D </h3>
+<h3 align="center">BUT SO LAZY AF!</h3>
 <p align="center">
     <a href="https://www.instagram.com/klienjohn_/">
     <img alt="Instagram" title="Follow on Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
