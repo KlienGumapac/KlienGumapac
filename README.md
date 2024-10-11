@@ -2,9 +2,7 @@
 <h1 align="center">Hello, I'm Klien</h1>
 <h3 align="center">Starting Again </h3>
 
-    <a href="https://www.instagram.com/klienjohn_/">
-    <img alt="Instagram" title="Follow on Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+    
   <a href="https://www.facebook.com/klienJohn.Gumapac">
     <img alt="Facebook" title="Connect on Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
