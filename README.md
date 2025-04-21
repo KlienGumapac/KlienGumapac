@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/KlienGumapac/KlienGumapac/blob/main/banner.gif)
 <h1 align="center">Hello, I'm Klien</h1>
-<h3 align="center">Starting Again </h3>
+<h3 align="center">Starting from start Again </h3>
 
     
   <a href="https://www.facebook.com/klienJohn.Gumapac">
@@ -16,7 +16,7 @@
 🖐Hi i'm Klien <br><br>
 🌏20 year's old from Polomolok, South Cotabato (Philippines) <br><br>
 🏫Studying at South East Asian Intitute Technology (SEAIT) <br><br>
-🎓BSIT Student 3rd year <br>
+🎓BSIT Student 4th year <br>
 <br>
 <br>
 <br>
@@ -27,8 +27,6 @@
 - 🌱 I’m currently learning **Bootstrap, Laravel and JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KlienGumapac](https://github.com/KlienGumapac)
-
-- 💬 Ask me about **vue**
 
 - 📫 How to reach me **Kliengumapac5@gmail.com**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
