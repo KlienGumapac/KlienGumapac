@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/KlienGumapac/KlienGumapac/blob/main/banner.gif)
 <h1 align="center">Hello, I'm Klien</h1>
-<h3 align="center">Starting from start Again </h3>
+<h3 align="center">Starting Again!</h3>
 
     
   <a href="https://www.facebook.com/klienJohn.Gumapac">
