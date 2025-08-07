@@ -14,9 +14,9 @@
 <br>
 <br>
 🖐Hi i'm Klien <br><br>
-🌏20 year's old from Polomolok, South Cotabato (Philippines) <br><br>
-🏫Studying at South East Asian Intitute Technology (SEAIT) <br><br>
-🎓BSIT Student 4th year <br>
+🌏21 year's old from Polomolok, South Cotabato (Philippines) <br><br>
+🏫GRADUATE at South East Asian Intitute Technology (SEAIT) <br><br>
+
 <br>
 <br>
 <br>
