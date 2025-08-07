@@ -24,7 +24,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 - 🔭 I’m currently working on [Organization Website](https://github.com/orgs/Service-4-U/projects/4)
 
-- 🌱 I’m currently learning **Bootstrap, Laravel and JavaScript**
+- 🌱 I’m currently learning **ReactJS, NodeJS, TailwindCSS, NextJS, GraphQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KlienGumapac](https://github.com/KlienGumapac)
 
